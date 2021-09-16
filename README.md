@@ -7,4 +7,4 @@ Changed semantic tags on the HTML refactoring to add navigation, main, section, 
 
 ## Deployed Application
 
-[Link to App](https://www.google.com)
+[Link to App](https://tcrear.github.io/semantic-tagging/)
